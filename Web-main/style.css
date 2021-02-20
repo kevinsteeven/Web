@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    color: rgb(225, 139, 247);
+    font-size: 60px
+}
+h3{
+    text-align: center;
+    color: rgb(225, 139, 247);
+    font-size: 45px
+}
+p{
+    font-size: 30px;
+    text-align:justify
+}
+.links{
+    font-size: 20px;
+}
+figure {
+    border: thin #c0c0c0 solid;
+    display: inline-block;
+    flex-flow: column;
+    padding: 5px;
+    /* max-width: 220px; */
+    
+    
+    
+}
+figcaption {
+    
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}
+.herramientas{
+    display: inline-block;
+flex-direction: row;
+justify-content: space-between;
+}
